@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="earth_green">#2F5D50</color>
+    <color name="brick">#A14E2C</color>
+    <color name="sun">#E4B04A</color>
+    <color name="ink">#17211E</color>
+    <color name="paper">#F7F5EF</color>
+</resources>
